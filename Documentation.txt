@@ -1,6 +1,7 @@
 Dataset name : Iris
 
 Source of the Dataset : https://www.kaggle.com/uciml/iris
+Documentation of the exploratory data analysis : https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
 Details: 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems.
